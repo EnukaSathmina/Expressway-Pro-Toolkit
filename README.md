@@ -6,7 +6,7 @@ A modern desktop application built with **CustomTkinter** that helps drivers cal
 
 ## 📸 Preview
 
->
+> ![Image Alt](https://github.com/EnukaSathmina/Expressway-Pro-Toolkit/blob/main/img.png?raw=true)
 
 ---
 
@@ -37,7 +37,7 @@ A modern desktop application built with **CustomTkinter** that helps drivers cal
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/expressway-pro.git
+git clone https://github.com/EnukaSathmina/Expressway-Pro-Toolkit.git
 ```
 ### 2. Install dependencies
 ```bash
@@ -46,7 +46,7 @@ pip install customtkinter
 
 ▶️ Run the Application
 ```
-python main.py
+py app.py
 ```
 
 ## 🖥️ How It Works
